@@ -80,7 +80,7 @@ I transformed high-level goals into **detailed, testable functional and non-func
 
 ## 4. Building the Functional Requirements Document (FRD)  
 
-The **FRD** bridges business needs and technical design — defining what the system should do so every team shares the same vision.  
+The **FRD** bridges business needs and technical design, defining what the system should do so every team shares the same vision.  
 
 ### 🧱 Key Sections Developed
 - **Use Cases:** Described user interactions and alternate/exception flows.  
