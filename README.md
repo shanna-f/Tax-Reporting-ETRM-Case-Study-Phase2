@@ -45,7 +45,7 @@ Having completed the Business Case, I used that foundation to develop the **Busi
 
 
 
-> ✨ **Lesson Learned:** Traceability matters — linking each requirement back to a business objective prevents scope drift and ensures alignment.  
+> ✨ **Lesson Learned:** Traceability matters: linking each requirement back to a business objective prevents scope drift and ensures alignment.  
 
 ---
 
