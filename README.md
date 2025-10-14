@@ -134,7 +134,7 @@ I developed the **Data Dictionary**, bridging data structure and business contex
 
 ---
 
-## 8. Bringing the Report to Life (Report Functional Specification)  
+## 8. Report Functional Specification  
 
 One of the most rewarding milestones — developing the **Report Functional Specification (RFS)** for the State Motor Fuel Tax Report.  
 
