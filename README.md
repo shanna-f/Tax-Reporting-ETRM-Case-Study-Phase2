@@ -81,6 +81,8 @@ The **FRD** bridges business needs and technical design — defining what the sy
 - **Tax Rules Overview:** Emphasized the importance of accuracy for compliance.  
 - **Requirements Traceability Matrix (RTM):** Linked business and functional requirements.  
 
+<img width="1825" height="872" alt="image" src="https://github.com/user-attachments/assets/379b8592-9710-4e3d-9388-7c3d9568a48a" />
+
 
 > ✨ **Lesson Learned:** A strong FRD connects strategy to execution: giving developers clarity, stakeholders confidence, and teams alignment.  
 
@@ -96,6 +98,8 @@ Before finalizing report designs, I focused on **understanding the data** — th
 - Defined initial relationships between entities.  
 - Scoped the model to one report to stay focused.  
 
+<img width="1892" height="1310" alt="image" src="https://github.com/user-attachments/assets/c155de3a-0396-43f9-a77e-6d1fa0fc657d" />
+
 
 > ✨ **Lesson Learned:** A good data model reduces rework and builds trust in the reports you deliver.  
 
@@ -104,6 +108,9 @@ Before finalizing report designs, I focused on **understanding the data** — th
 ## 6. Getting More into Data and Diagrams  
 
 After the ERD, I created a **Data Flow Diagram (DFD)** to understand how data moves through the system — connecting processes, data stores, and external actors.  
+
+<img width="1800" height="1065" alt="image" src="https://github.com/user-attachments/assets/2a717c6c-51f4-4d43-8b07-fc6d3256347d" />
+
 
 > ✨ **Lesson Learned:** Visualizing data flow builds understanding — clarifying what each process consumes and produces.  
 
@@ -117,6 +124,8 @@ I developed the **Data Dictionary**, bridging data structure and business contex
 - Started from the **report spec** to define required fields.  
 - Worked **backward** to identify each field’s source table and data type.  
 - Included **sample data** for each table to make it tangible and contextual.  
+
+<img width="2305" height="1330" alt="image" src="https://github.com/user-attachments/assets/ec0c4d5c-4470-4f2c-b693-84af6a1fd384" />
 
 
 > ✨ **Lesson Learned:** Seeing sample data makes the abstract concrete — revealing format and consistency issues early.  
@@ -135,6 +144,8 @@ One of the most rewarding milestones — developing the **Report Functional Spec
   - Access permissions & data sensitivity  
   - Assumptions, dependencies, and constraints  
   - High-level testing scenarios for validation  
+
+<img width="1690" height="670" alt="image" src="https://github.com/user-attachments/assets/2d7d481e-21e1-4d6d-88e3-22d875d11581" />
 
 
 > ✨ **Lesson Learned:** The RFS turns understanding into a buildable design — where business logic meets technical clarity.  
