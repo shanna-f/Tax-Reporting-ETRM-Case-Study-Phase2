@@ -183,16 +183,15 @@ One of the most rewarding milestones: developing the **Report Functional Specifi
 
 ## 10. Key Deliverables Created  
 
-✅ Business Requirements Document (BRD)  
-✅ Use Case Diagram  
-✅ Gap Analysis
-✅ Functional Requirements Document (FRD)
-✅ Functional Requirements Document (FRD)  
-✅ Requirements Traceability Matrix (RTM)  
-✅ Entity Relationship Diagram (ERD)  
-✅ Data Flow Diagram (DFD)  
-✅ Data Dictionary  
-✅ Report Functional Specification (RFS)  
+-✅ Business Requirements Document (BRD)  
+-✅ Use Case Diagram  
+-✅ Gap Analysis
+-✅ Functional Requirements Document (FRD)  
+-✅ Requirements Traceability Matrix (RTM)  
+-✅ Entity Relationship Diagram (ERD)  
+-✅ Data Flow Diagram (DFD)  
+-✅ Data Dictionary  
+-✅ Report Functional Specification (RFS)  
 
 ---
 
