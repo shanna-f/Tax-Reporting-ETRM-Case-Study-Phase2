@@ -101,7 +101,7 @@ The **FRD** bridges business needs and technical design, defining what the syste
 
 ## 5. Starting with the Data  
 
-Before finalizing report designs, I focused on **understanding the data** — the foundation for accurate, compliant reporting.  
+Before finalizing report designs, I focused on **understanding the data**: the foundation for accurate, compliant reporting.  
 
 ### 📊 Key Activities
 - Built a **high-level ERD** for the State Motor Fuel Tax Monthly Return.  
