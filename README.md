@@ -27,12 +27,12 @@ This project highlights my ability to bridge **business and technical perspectiv
 
 In Phase 1, I: 
 
-🚀 Identified problems & analyzed current state (manual data, fragmented workflows, compliance risks)
-⚙️ Designed future-state solution with low-code tax engine for automated validation, reporting & audits
-🎯 Set clear goals: efficiency, compliance, agility
-📊 Built business case: ROI & risk analysis
-🗂 Created key artifacts: process flows, stakeholder maps, governance plans
-✅ Delivered recommendation: 90% automation, measurable time & cost savings 
+- Identified problems & analyzed current state (manual data, fragmented workflows, compliance risks)
+- Designed future-state solution with low-code tax engine for automated validation, reporting & audits
+- Set clear goals: efficiency, compliance, agility
+- Built business case: ROI & risk analysis
+- Created key artifacts: process flows, stakeholder maps, governance plans
+- Delivered recommendation: 90% automation, measurable time & cost savings 
 
 
 ---
