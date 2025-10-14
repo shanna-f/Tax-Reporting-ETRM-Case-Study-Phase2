@@ -191,7 +191,9 @@ One of the most rewarding milestones: developing the **Report Functional Specifi
 - ✅ Entity Relationship Diagram (ERD)  
 - ✅ Data Flow Diagram (DFD)  
 - ✅ Data Dictionary  
-- ✅ Report Functional Specification (RFS)  
+- ✅ Report Functional Specification (RFS)
+- [Business Requirements Document](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/BRD%20Case%20Study%201%20ETRM.pdf)
+- [Use Case Diagram](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Use%20Case%20Diagram.png) 
 
 ---
 
