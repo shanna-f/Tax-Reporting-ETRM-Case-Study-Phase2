@@ -208,13 +208,13 @@ One of the most rewarding milestones: developing the **Report Functional Specifi
 
 ## 12. Key Learnings & Reflection  
 
-- **Templates are guides, not rules.** Adapt to your project’s needs.  
-- **Know when to stop analyzing.** Aim for “just enough” to move forward.  
-- **Iterate and validate.** First drafts are conversation starters.  
-- **Diagrams expose dependencies.** They reveal missing data or gaps early.  
-- **Always start with business purpose.** The “why” shapes the “what.”  
-- **Consistency builds trust.** A clear Data Dictionary aligns teams.  
-- **Visuals drive alignment.** ERDs, DFDs, and mockups turn complexity into shared understanding.  
+- ✨**Templates are guides, not rules.** Adapt to your project’s needs.  
+- ✨**Know when to stop analyzing.** Aim for “just enough” to move forward.  
+- ✨**Iterate and validate.** First drafts are conversation starters.  
+- ✨**Diagrams expose dependencies.** They reveal missing data or gaps early.  
+- ✨**Always start with business purpose.** The “why” shapes the “what.”  
+- ✨**Consistency builds trust.** A clear Data Dictionary aligns teams.  
+- ✨**Visuals drive alignment.** ERDs, DFDs, and mockups turn complexity into shared understanding.  
 
 
 
