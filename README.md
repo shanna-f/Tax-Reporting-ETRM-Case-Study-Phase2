@@ -96,7 +96,7 @@ Before finalizing report designs, I focused on **understanding the data** — th
 
 ### 📊 Key Activities
 - Built a **high-level ERD** for the State Motor Fuel Tax Monthly Return.  
-- Identified **9 key entities**, including Transactions, Movements, Tax Rules, and Jurisdictions.  
+- Identified **key entities**, including Transactions, Movements, Tax Rules, and Jurisdictions.  
 - Defined initial relationships between entities.  
 - Scoped the model to one report to stay focused.  
 
