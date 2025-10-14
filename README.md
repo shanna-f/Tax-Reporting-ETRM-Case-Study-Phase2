@@ -185,7 +185,7 @@ One of the most rewarding milestones: developing the **Report Functional Specifi
 
 - [Business Requirements Document](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/BRD%20Case%20Study%201%20ETRM.pdf)
 - [Use Case Diagram](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Use%20Case%20Diagram.png)
-- [Gap Analysis](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Gap%20Analysis%20Case%20Study%201.pdf)
+- [Gap Analysis](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Gap%20Analysis.png)
 - [Functional Requirements Document](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Functional%20Requirements%20Document%20ETRM.pdf)
 - [Requirements Traceability Matrix](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Req%20Traceability%20Matrix%20ETRM.pdf)
 - [Entity Relationship Diagram](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Entity%20Relationship%20Diagram.pdf)
