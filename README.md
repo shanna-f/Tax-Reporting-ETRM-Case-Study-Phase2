@@ -35,16 +35,15 @@ The project culminated in a **clear, data-driven recommendation** demonstrating 
 
 Having completed the Business Case, I used that foundation to develop the **Business Requirements Document (BRD)**.  
 
-<details>
-<summary>🧩 Key Activities</summary>
 
+###🧩 Key Activities
 - Defined high-level business requirements aligned with the approved Business Case.  
 - Identified dependencies affecting delivery or system behavior.  
 - Created a high-level **use case diagram** to visualize user interactions.  
 - Built a **gap analysis diagram** to highlight improvement areas.  
 - Compiled a **glossary** for consistent terminology.  
 
-</details>
+
 
 > ✨ **Lesson Learned:** Traceability matters — linking each requirement back to a business objective prevents scope drift and ensures alignment.  
 
