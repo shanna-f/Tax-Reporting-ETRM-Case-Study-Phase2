@@ -4,6 +4,7 @@ This is Phase 2 of my work on a fictional case study project (for portfolio purp
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/7e181ed1-0f25-4f3e-bec4-1f35baa8d7c3" />
 
 This project highlights my ability to bridge **business and technical perspectives** — from defining problems and creating business cases, to documenting requirements, mapping data flows, and producing a developer-ready **Report Functional Specification**. It demonstrates key skills in **requirements analysis, data modeling, stakeholder alignment, and solution design** within a regulated enterprise environment.  
+
 ---
 
 ## 📘 Table of Contents  
