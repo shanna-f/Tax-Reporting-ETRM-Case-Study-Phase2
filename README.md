@@ -43,6 +43,9 @@ Having completed the Business Case, I used that foundation to develop the **Busi
 - Built a **gap analysis diagram** to highlight improvement areas.  
 - Compiled a **glossary** for consistent terminology.  
 
+<img width="1800" height="1030" alt="image" src="https://github.com/user-attachments/assets/4710e429-6659-4bc5-9213-c982d7864829" />
+
+
 
 
 > ✨ **Lesson Learned:** Traceability matters: linking each requirement back to a business objective prevents scope drift and ensures alignment.  
