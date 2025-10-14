@@ -68,9 +68,7 @@ I transformed high-level goals into **detailed, testable functional and non-func
 
 The **FRD** bridges business needs and technical design — defining what the system should do so every team shares the same vision.  
 
-<details>
-<summary>🧱 Key Sections Developed</summary>
-
+### 🧱 Key Sections Developed
 - **Use Cases:** Described user interactions and alternate/exception flows.  
 - **Data Requirements:** Defined entities like transactions, tax rules, and reports.  
 - **Interface Requirements:** Outlined system integrations to avoid silos.  
@@ -78,9 +76,8 @@ The **FRD** bridges business needs and technical design — defining what the sy
 - **Tax Rules Overview:** Emphasized the importance of accuracy for compliance.  
 - **Requirements Traceability Matrix (RTM):** Linked business and functional requirements.  
 
-</details>
 
-> ✨ **Lesson Learned:** A strong FRD connects strategy to execution — giving developers clarity, stakeholders confidence, and teams alignment.  
+> ✨ **Lesson Learned:** A strong FRD connects strategy to execution: giving developers clarity, stakeholders confidence, and teams alignment.  
 
 ---
 
