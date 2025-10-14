@@ -109,7 +109,7 @@ Before finalizing report designs, I focused on **understanding the data** — th
 
 ## 6. Getting More into Data and Diagrams  
 
-After the ERD, I created a **Data Flow Diagram (DFD)** to understand how data moves through the system — connecting processes, data stores, and external actors.  
+After the ERD, I created a **Data Flow Diagram (DFD)** to understand how data moves through the system: connecting processes, data stores, and external actors.  
 
 <img width="1800" height="1065" alt="image" src="https://github.com/user-attachments/assets/2a717c6c-51f4-4d43-8b07-fc6d3256347d" />
 
