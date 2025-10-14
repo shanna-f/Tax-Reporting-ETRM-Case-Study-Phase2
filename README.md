@@ -50,6 +50,7 @@ Having completed the Business Case, I used that foundation to develop the **Busi
 - Compiled a **glossary** for consistent terminology.  
 
 <img width="1800" height="1030" alt="image" src="https://github.com/user-attachments/assets/4710e429-6659-4bc5-9213-c982d7864829" />
+
 *Figure 1: High-Level Functional Requirements*  
 
 
@@ -69,7 +70,9 @@ I transformed high-level goals into **detailed, testable functional and non-func
 - Started a list of tax reports to be developed later.  
 
 <img width="1792" height="1335" alt="image" src="https://github.com/user-attachments/assets/9957cc21-df05-42e4-bdad-21faacfaca7a" />
+
 *Figure 2: Acceptance Criteria*  
+
 
 > ✨ **Lesson Learned:** Clarity drives collaboration. Testable requirements help align analysts, developers, and business users.  
 
@@ -88,7 +91,9 @@ The **FRD** bridges business needs and technical design — defining what the sy
 - **Requirements Traceability Matrix (RTM):** Linked business and functional requirements.  
 
 <img width="1825" height="872" alt="image" src="https://github.com/user-attachments/assets/379b8592-9710-4e3d-9388-7c3d9568a48a" />
+
 *Figure 3: List of Reports*  
+
 
 > ✨ **Lesson Learned:** A strong FRD connects strategy to execution: giving developers clarity, stakeholders confidence, and teams alignment.  
 
@@ -105,7 +110,9 @@ Before finalizing report designs, I focused on **understanding the data** — th
 - Scoped the model to one report to stay focused.  
 
 <img width="1892" height="1310" alt="image" src="https://github.com/user-attachments/assets/c155de3a-0396-43f9-a77e-6d1fa0fc657d" />
+
 *Figure 4: ERD*  
+
 
 > ✨ **Lesson Learned:** A good data model reduces rework and builds trust in the reports you deliver.  
 
@@ -116,7 +123,9 @@ Before finalizing report designs, I focused on **understanding the data** — th
 After the ERD, I created a **Data Flow Diagram (DFD)** to understand how data moves through the system: connecting processes, data stores, and external actors.  
 
 <img width="1800" height="1065" alt="image" src="https://github.com/user-attachments/assets/2a717c6c-51f4-4d43-8b07-fc6d3256347d" />
+
 *Figure 5: DFD*  
+
 
 > ✨ **Lesson Learned:** Visualizing data flow builds understanding: clarifying what each process consumes and produces.  
 
@@ -132,7 +141,9 @@ I developed the **Data Dictionary**, bridging data structure and business contex
 - Included **sample data** for each table to make it tangible and contextual.  
 
 <img width="2305" height="1330" alt="image" src="https://github.com/user-attachments/assets/ec0c4d5c-4470-4f2c-b693-84af6a1fd384" />
+
 *Figure 6: Data Dictionary*  
+
 
 > ✨ **Lesson Learned:** Seeing sample data makes the abstract concrete: revealing format and consistency issues early.  
 
@@ -152,7 +163,9 @@ One of the most rewarding milestones — developing the **Report Functional Spec
   - High-level testing scenarios for validation  
 
 <img width="1690" height="670" alt="image" src="https://github.com/user-attachments/assets/2d7d481e-21e1-4d6d-88e3-22d875d11581" />
+
 *Figure 7: Report Mockup*
+
 
 > ✨ **Lesson Learned:** The RFS turns understanding into a buildable design: where business logic meets technical clarity.  
 
