@@ -62,6 +62,8 @@ I transformed high-level goals into **detailed, testable functional and non-func
 - Prioritized critical requirements.  
 - Started a list of tax reports to be developed later.  
 
+<img width="1792" height="1335" alt="image" src="https://github.com/user-attachments/assets/9957cc21-df05-42e4-bdad-21faacfaca7a" />
+
 
 > ✨ **Lesson Learned:** Clarity drives collaboration. Testable requirements help align analysts, developers, and business users.  
 
