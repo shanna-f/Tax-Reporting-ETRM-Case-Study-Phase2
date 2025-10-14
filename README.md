@@ -53,15 +53,12 @@ Having completed the Business Case, I used that foundation to develop the **Busi
 
 I transformed high-level goals into **detailed, testable functional and non-functional requirements**.  
 
-<details>
-<summary>🔍 Key Activities</summary>
-
+### 🔍 Key Activities
 - Developed detailed requirements tied to the BRD.  
 - Defined measurable **acceptance criteria** for validation and testing.  
 - Prioritized critical requirements.  
 - Started a list of tax reports to be developed later.  
 
-</details>
 
 > ✨ **Lesson Learned:** Clarity drives collaboration. Testable requirements help align analysts, developers, and business users.  
 
