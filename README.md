@@ -114,7 +114,7 @@ After the ERD, I created a **Data Flow Diagram (DFD)** to understand how data mo
 <img width="1800" height="1065" alt="image" src="https://github.com/user-attachments/assets/2a717c6c-51f4-4d43-8b07-fc6d3256347d" />
 
 
-> ✨ **Lesson Learned:** Visualizing data flow builds understanding — clarifying what each process consumes and produces.  
+> ✨ **Lesson Learned:** Visualizing data flow builds understanding: clarifying what each process consumes and produces.  
 
 ---
 
@@ -130,7 +130,7 @@ I developed the **Data Dictionary**, bridging data structure and business contex
 <img width="2305" height="1330" alt="image" src="https://github.com/user-attachments/assets/ec0c4d5c-4470-4f2c-b693-84af6a1fd384" />
 
 
-> ✨ **Lesson Learned:** Seeing sample data makes the abstract concrete — revealing format and consistency issues early.  
+> ✨ **Lesson Learned:** Seeing sample data makes the abstract concrete: revealing format and consistency issues early.  
 
 ---
 
@@ -150,7 +150,7 @@ One of the most rewarding milestones — developing the **Report Functional Spec
 <img width="1690" height="670" alt="image" src="https://github.com/user-attachments/assets/2d7d481e-21e1-4d6d-88e3-22d875d11581" />
 
 
-> ✨ **Lesson Learned:** The RFS turns understanding into a buildable design — where business logic meets technical clarity.  
+> ✨ **Lesson Learned:** The RFS turns understanding into a buildable design: where business logic meets technical clarity.  
 
 ---
 
