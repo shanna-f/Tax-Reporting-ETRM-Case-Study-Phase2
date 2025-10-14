@@ -25,7 +25,7 @@ This project highlights my ability to bridge **business and technical perspectiv
 
 ## 1. Project Background  
 
-In Phase 1, I did the following: 
+### 💼 Recap of My Phase 1 Activities: 
 
 - Identified problems & analyzed current state (manual data, fragmented workflows, compliance risks)
 - Designed future-state solution with low-code tax engine for automated validation, reporting & audits
