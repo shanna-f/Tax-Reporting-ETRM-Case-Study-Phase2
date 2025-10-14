@@ -85,15 +85,12 @@ The **FRD** bridges business needs and technical design — defining what the sy
 
 Before finalizing report designs, I focused on **understanding the data** — the foundation for accurate, compliant reporting.  
 
-<details>
-<summary>📊 Key Activities</summary>
-
+### 📊 Key Activities
 - Built a **high-level ERD** for the State Motor Fuel Tax Monthly Return.  
 - Identified **9 key entities**, including Transactions, Movements, Tax Rules, and Jurisdictions.  
 - Defined initial relationships between entities.  
 - Scoped the model to one report to stay focused.  
 
-</details>
 
 > ✨ **Lesson Learned:** A good data model reduces rework and builds trust in the reports you deliver.  
 
@@ -111,14 +108,11 @@ After the ERD, I created a **Data Flow Diagram (DFD)** to understand how data mo
 
 I developed the **Data Dictionary**, bridging data structure and business context.  
 
-<details>
-<summary>📗 My Approach</summary>
-
+### 📗 My Approach
 - Started from the **report spec** to define required fields.  
 - Worked **backward** to identify each field’s source table and data type.  
 - Included **sample data** for each table to make it tangible and contextual.  
 
-</details>
 
 > ✨ **Lesson Learned:** Seeing sample data makes the abstract concrete — revealing format and consistency issues early.  
 
@@ -128,9 +122,7 @@ I developed the **Data Dictionary**, bridging data structure and business contex
 
 One of the most rewarding milestones — developing the **Report Functional Specification (RFS)** for the State Motor Fuel Tax Report.  
 
-<details>
-<summary>📘 Key Activities</summary>
-
+### 📘 Key Activities
 - Defined **business purpose**, fields to display, and filter parameters.  
 - Mapped each report field to its **source** and defined **join logic**.  
 - Created a **mockup layout** with sample data for realism.  
@@ -139,7 +131,6 @@ One of the most rewarding milestones — developing the **Report Functional Spec
   - Assumptions, dependencies, and constraints  
   - High-level testing scenarios for validation  
 
-</details>
 
 > ✨ **Lesson Learned:** The RFS turns understanding into a buildable design — where business logic meets technical clarity.  
 
@@ -150,7 +141,7 @@ One of the most rewarding milestones — developing the **Report Functional Spec
 | Tool | Purpose |
 |------|----------|
 | **Microsoft Word** | BRD, FRD, and RFS documentation |
-| **Draw.io** | Diagrams – Use Case, Gap, ERD, DFD |
+| **Draw.io** | Diagrams – Use Case, ERD, DFD |
 | **Excel** | RTM, Data Dictionary, and sample tables |
 
 ---
@@ -159,7 +150,7 @@ One of the most rewarding milestones — developing the **Report Functional Spec
 
 - ✅ Business Requirements Document (BRD)  
 - ✅ Use Case Diagram  
-- ✅ Gap Analysis Diagram  
+- ✅ Gap Analysis
 - ✅ Functional Requirements Document (FRD)  
 - ✅ Requirements Traceability Matrix (RTM)  
 - ✅ Entity Relationship Diagram (ERD)  
@@ -190,8 +181,7 @@ One of the most rewarding milestones — developing the **Report Functional Spec
 - **Consistency builds trust.** A clear Data Dictionary aligns teams.  
 - **Visuals drive alignment.** ERDs, DFDs, and mockups turn complexity into shared understanding.  
 
-> 💡 **Final Reflection:**  
-> This project strengthened my ability to **bridge business and technical perspectives** — turning regulatory complexity into structured clarity. It reaffirmed that strong business analysis isn’t about perfection, but about **communication, traceability, and confidence** in delivering solutions that work.  
+
 
 ---
 
