@@ -185,7 +185,7 @@ One of the most rewarding milestones: developing the **Report Functional Specifi
 
 ✅ Business Requirements Document (BRD)  
 ✅ Use Case Diagram  
-✅ Gap Analysis
+✅ Gap Analysis Diagram
 ✅ Functional Requirements Document (FRD)  
 ✅ Requirements Traceability Matrix (RTM)  
 ✅ Entity Relationship Diagram (ERD)  
