@@ -35,7 +35,7 @@ This project highlights my ability to bridge **business and technical perspectiv
 - Delivered recommendation: 90% automation, measurable time & cost savings
 
 
-[See More Here](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
+- [See More Here](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
 ---
 
 ## 2. The Business Requirements Document (BRD)  
