@@ -166,7 +166,7 @@ One of the most rewarding milestones — developing the **Report Functional Spec
 
 ## 10. Key Deliverables Created  
 
-- ✅ Business Requirements Document (BRD)  
+✅ Business Requirements Document (BRD)  
 - ✅ Use Case Diagram  
 - ✅ Gap Analysis
 - ✅ Functional Requirements Document (FRD)  
