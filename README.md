@@ -159,7 +159,7 @@ One of the most rewarding milestones: developing the **Report Functional Specifi
 - Created a **mockup layout** with sample data for realism.  
 - Documented:  
   - Access permissions & data sensitivity  
-  - Assumptions, dependencies, and constraints  
+  - Assumptions & dependencies  
   - High-level testing scenarios for validation  
 
 <img width="1690" height="670" alt="image" src="https://github.com/user-attachments/assets/2d7d481e-21e1-4d6d-88e3-22d875d11581" />
