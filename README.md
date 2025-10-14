@@ -188,10 +188,10 @@ One of the most rewarding milestones: developing the **Report Functional Specifi
 - [Gap Analysis](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Gap%20Analysis%20Case%20Study%201.pdf)
 - [Functional Requirements Document](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Functional%20Requirements%20Document%20ETRM.pdf)
 - [Requirements Traceability Matrix](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Req%20Traceability%20Matrix%20ETRM.pdf)
-- [ERD](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Entity%20Relationship%20Diagram.pdf)
-- [DFD](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Data%20Flow%20Diagram.pdf)
+- [Entity Relationship Diagram](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Entity%20Relationship%20Diagram.pdf)
+- [Data Flow Diagram](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Data%20Flow%20Diagram.pdf)
 - [Data Dictionary](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Data%20Dictionary.pdf)
-- [Report Functional Spec](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Report%20Functional%20Spec%20-%20State%20Motor%20Fuel%20Tax.pdf) 
+- [Report Functional Specification](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study-Phase2/blob/main/Report%20Functional%20Spec%20-%20State%20Motor%20Fuel%20Tax.pdf) 
 
 ---
 
