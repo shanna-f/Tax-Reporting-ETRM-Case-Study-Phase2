@@ -6,7 +6,9 @@ This is Phase 2 of my work on a fictional case study project (for portfolio purp
 ## 1. Project Background
 
 In Phase 1, I led the project from defining the problem and current-state analysis - manual data handling, fragmented workflows, and compliance risks - to designing a future-state solution integrating a low-code tax engine for automated validation, reporting, and audit readiness. 
+
 I established measurable goals (efficiency, compliance, agility), built a business case with ROI and risk analysis, and designed supporting artifacts such as process flows, stakeholder maps, and governance plans to ensure sustainable delivery. 
+
 The project culminated in a clear, data-driven recommendation that demonstrated 90% automation and significant time and cost savings. 
 
 
