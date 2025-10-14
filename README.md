@@ -88,7 +88,7 @@ The **FRD** bridges business needs and technical design, defining what the syste
 - **Interface Requirements:** Outlined system integrations to avoid silos.  
 - **Reporting Overview:** Identified key tax reports and where details reside.  
 - **Tax Rules Overview:** Emphasized the importance of accuracy for compliance.  
-- **Requirements Traceability Matrix (RTM):** Linked business and functional requirements.  
+- **Requirements Traceability Matrix (RTM):** Linked high-level and detailed requirements.  
 
 <img width="1825" height="872" alt="image" src="https://github.com/user-attachments/assets/379b8592-9710-4e3d-9388-7c3d9568a48a" />
 
