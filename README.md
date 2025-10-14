@@ -25,7 +25,7 @@ This project highlights my ability to bridge **business and technical perspectiv
 
 ## 1. Project Background  
 
-### 💼 Recap of My Phase 1 Activities: 
+### 💼 Recap of My Phase 1 Activities
 
 - Identified problems & analyzed current state (manual data, fragmented workflows, compliance risks)
 - Designed future-state solution with low-code tax engine for automated validation, reporting & audits
@@ -34,7 +34,7 @@ This project highlights my ability to bridge **business and technical perspectiv
 - Created key artifacts: process flows, stakeholder maps, governance plans
 - Delivered recommendation: 90% automation, measurable time & cost savings 
 
-
+- [See More Here](https://github.com/shanna-f/Tax-Reporting-ETRM-Case-Study)
 ---
 
 ## 2. The Business Requirements Document (BRD)  
