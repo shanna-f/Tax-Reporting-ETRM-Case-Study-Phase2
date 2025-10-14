@@ -151,7 +151,7 @@ I developed the **Data Dictionary**, bridging data structure and business contex
 
 ## 8. Report Functional Specification  
 
-One of the most rewarding milestones — developing the **Report Functional Specification (RFS)** for the State Motor Fuel Tax Report.  
+One of the most rewarding milestones: developing the **Report Functional Specification (RFS)** for the State Motor Fuel Tax Report.  
 
 ### 📘 Key Activities
 - Defined **business purpose**, fields to display, and filter parameters.  
