@@ -50,7 +50,7 @@ Having completed the Business Case, I used that foundation to develop the **Busi
 - Compiled a **glossary** for consistent terminology.  
 
 <img width="1800" height="1030" alt="image" src="https://github.com/user-attachments/assets/4710e429-6659-4bc5-9213-c982d7864829" />
-*Figure 1: High-Level Functional Requirements*  
+*Figure 1: High-Level Requirements*  
 
 
 
