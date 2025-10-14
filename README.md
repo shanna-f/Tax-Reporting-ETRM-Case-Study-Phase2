@@ -82,7 +82,7 @@ I transformed high-level goals into **detailed, testable functional and non-func
 
 The **FRD** bridges business needs and technical design, defining what the system should do so every team shares the same vision.  
 
-### 🧱 Key Sections Developed
+### 💥 Key Sections Developed
 - **Use Cases:** Described user interactions and alternate/exception flows.  
 - **Data Requirements:** Defined entities like transactions, tax rules, and reports.  
 - **Interface Requirements:** Outlined system integrations to avoid silos.  
