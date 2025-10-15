@@ -103,7 +103,7 @@ The **FRD** bridges business needs and technical design, defining what the syste
 Before finalizing report designs, I focused on **understanding the data**: the foundation for accurate, compliant reporting.  
 
 ### 📊 Key Activities
-- Built a **high-level ERD** for the State Motor Fuel Tax Monthly Return.  
+- Built a **high-level ERD** for the State Motor Fuel Tax Report.  
 - Identified **key entities**, including Transactions, Movements, Tax Rules, and Jurisdictions.  
 - Defined initial relationships between entities.  
 - Scoped the model to one report to stay focused.  
